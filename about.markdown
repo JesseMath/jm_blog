@@ -10,5 +10,7 @@ Hello! My name is Jesse. This website is designed to be a place where I can coll
 
 
 # Readings
-## I love to read! These are some (not necessarily all) of the books that I have read / am currently reading, along with some of my notes.
 
+I love to read! These are some (not necessarily all) of the books that I have read / am currently reading, along with some of my notes.
+
+* Nexus by Yuval Noah Harari
