@@ -30,8 +30,8 @@ linkedin_url: https://www.linkedin.com/in/jesse-parrish-ba0322183/
 
 header_pages:
   - about.md
-  - portfolio.md
-  - contact.md
+  - Experience.md
+  - running_schedule.md
 
 # Build settings
 theme: minima
