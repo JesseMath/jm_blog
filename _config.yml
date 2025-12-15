@@ -28,7 +28,7 @@ twitter_username: MathAndRunning
 github_username:  JesseMath
 
 header_pages:
-  - about.md
+  - about.markdown
   - Experience.md
   - running_schedule.md
 
