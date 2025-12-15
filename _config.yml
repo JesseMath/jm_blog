@@ -27,11 +27,6 @@ url: "https://jessemath.github.io/jm_blog/" # the base hostname & protocol for y
 twitter_username: MathAndRunning
 github_username:  JesseMath
 
-header_pages:
-  - about.markdown
-  - Experience.md
-  - running_schedule.md
-
 # Build settings
 theme: default
 plugins:
