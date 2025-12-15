@@ -28,7 +28,7 @@ twitter_username: MathAndRunning
 github_username:  JesseMath
 
 # Build settings
-theme: minima
+theme: default
 plugins:
   - jekyll-feed
   - jekyll-archives
