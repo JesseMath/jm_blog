@@ -1,3 +1,9 @@
+---
+layout: page
+title: Experience
+permalink: /Experience/
+---
+
 # List of Courses Taught
 
 - Winter 2024 - Teaching Assistant for University of Denver MATH 1200 (Business Calculus)
@@ -34,3 +40,4 @@ and Proofs)
 - **Developer Tools**: VS code, Jupyter Notebooks.
 - **Technologies/Frameworks**: Linux, GitHub, Tensorflow.
 - **Other**: Word, Excel, LaTeX, Tableau.
+
