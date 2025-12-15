@@ -29,7 +29,7 @@ github_username: JesseMath
 linkedin_url: https://www.linkedin.com/in/jesse-parrish-ba0322183/
 
 # Build settings
-theme: default
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-archives
