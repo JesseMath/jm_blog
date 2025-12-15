@@ -21,7 +21,7 @@
 title: Infinite Margins
 email: jesse.parrish32@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A witness to my own adventure.
+  A witness to my own .
 baseurl: "jm_blog" # the subpath of your site, e.g. /blog
 url: "https://jessemath.github.io/jm_blog/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: JesseMath
