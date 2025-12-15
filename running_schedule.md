@@ -1,3 +1,9 @@
+---
+layout: page
+title: Running Schedule
+permalink: /Running/
+---
+
 # Running Schedule
 
 ## Program Details
@@ -259,3 +265,4 @@
 
 **Lessons learned:**
 -
+
