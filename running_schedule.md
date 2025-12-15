@@ -4,8 +4,6 @@ title: Running Schedule
 permalink: /Running/
 ---
 
-# Running Schedule
-
 ## Program Details
 - **Program Name:** [e.g., 5K Training, Marathon Prep, Base Building]
 - **Start Date:** 12/15/2025
@@ -265,4 +263,5 @@ permalink: /Running/
 
 **Lessons learned:**
 -
+
 
