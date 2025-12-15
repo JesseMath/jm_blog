@@ -26,6 +26,7 @@ baseurl: "jm_blog" # the subpath of your site, e.g. /blog
 url: "https://jessemath.github.io/jm_blog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MathAndRunning
 github_username:  JesseMath
+linkedin_username: Jesse Parrish
 
 # Build settings
 theme: default
