@@ -6,59 +6,6 @@ permalink: /about/
 
 Hello! My name is Jesse. This website is designed to be a place where I can collect and explore my interests. I finished my PhD in mathematics at the University of Denver in the fall of 2025 and am currently teaching and seeking an internship in machine learning / AI / software development while continuing to work on my programming skills.
 
-# Past Relevant Courses Taken
-
-### 2024-2025
-* Thesis Research
-
-### 2023
-* Algebraic Knot Theory
-* Probabilistic Methods in Combinatorics
-* Representation Theory
-
-### 2022
-* Advanced Machine Learning Techniques / Hilbert Spaces
-* Loop Theory
-* Dynamical Systems
-* Cryptography
-* Measure Theory
-* Algebraic Logic
-
-### 2021
-* Code Loops
-* Riemannian Geometry
-* Partitions and Related Topics
-* Parking Functions
-* Homological Algebra
-* Introduction to Vertex Operator Algebras
-
-### 2020
-* Coding Theory
-* Introduction to Algebraic Geometry
-* Topology
-* Rings and Fields
-* Real Analysis II
-* Group Theory
-
-### 2019
-* Real Analysis I
-* Abstract Algebra
-* Measure & Integration Theory
-* Partial Differential Equations
-* Classical Mechanics
-* Galois Theory
-
-### 2018
-* Bridge to Modern Analysis
-* Probability Theory
-* History of Mathematics
-* Comlpex Analysis
-
-### 2017
-* Graphs and Algorithms
-* Applications of Statistics
-
-
 # Readings
 
 I love to read. These are some (not necessarily all) of the books that I have read / am currently reading, along with some of my notes.
