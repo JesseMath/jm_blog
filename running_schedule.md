@@ -5,8 +5,8 @@ permalink: /Running/
 ---
 
 ## Program Details
-- **Program Name:** [e.g., 5K Training, Marathon Prep, Base Building]
-- **Start Date:** 12/15/2025
+- **Program Name:** Sub-2:36 Build #1
+- **Start Date:** 12/22/2025
 - **End Date:** 02/11/2025
 - **Goal:** Sub-17 5K
 - **Current Fitness Level:** Base
@@ -15,7 +15,7 @@ permalink: /Running/
 
 ## Weekly Schedule
 
-### Week 1 (Dates: 12/15/2025 to 12/21/2025)
+### Week 1
 
 | Day | Workout Type | Distance/Time | Pace/Effort | Notes |
 |-----|--------------|---------------|-------------|-------|
@@ -34,7 +34,7 @@ permalink: /Running/
 
 ---
 
-### Week 2 (Dates: 12/22/2025 to 12/28/2025)
+### Week 2
 
 | Day | Workout Type | Distance/Time | Pace/Effort | Notes |
 |-----|--------------|---------------|-------------|-------|
@@ -54,7 +54,7 @@ permalink: /Running/
 
 ---
 
-### Week 3 (Dates: 12/29/2025 to 01/04/2026)
+### Week 3
 
 | Day | Workout Type | Distance/Time | Pace/Effort | Notes |
 |-----|--------------|---------------|-------------|-------|
@@ -74,7 +74,7 @@ permalink: /Running/
 
 ---
 
-### Week 4 (Dates: 01/05/2026 to 01/11/2026)
+### Week 4
 
 | Day | Workout Type | Distance/Time | Pace/Effort | Notes |
 |-----|--------------|---------------|-------------|-------|
@@ -94,7 +94,7 @@ permalink: /Running/
 
 ---
 
-### Week 5 (Dates: 01/12/2026 to 01/18/2026)
+### Week 5
 
 | Day | Workout Type | Distance/Time | Pace/Effort | Notes |
 |-----|--------------|---------------|-------------|-------|
@@ -114,7 +114,7 @@ permalink: /Running/
 
 ---
 
-### Week 6 (Dates: 01/19/2026 to 01/25/2026)
+### Week 6
 
 | Day | Workout Type | Distance/Time | Pace/Effort | Notes |
 |-----|--------------|---------------|-------------|-------|
@@ -134,7 +134,7 @@ permalink: /Running/
 
 ---
 
-### Week 7 (Dates: 01/26/2026 to 02/04/2026)
+### Week 7
 
 | Day | Workout Type | Distance/Time | Pace/Effort | Notes |
 |-----|--------------|---------------|-------------|-------|
@@ -154,7 +154,7 @@ permalink: /Running/
 
 ---
 
-### Week 8 (Dates: 02/05/2026 to 02/11/2026)
+### Week 8
 
 | Day | Workout Type | Distance/Time | Pace/Effort | Notes |
 |-----|--------------|---------------|-------------|-------|
@@ -176,92 +176,12 @@ permalink: /Running/
 
 ## Workout Types Reference
 
-### Easy Run
-- Comfortable, conversational pace
-- Should feel sustainable
-- Purpose: Build aerobic base
-
-### Long Run
-- Slower than race pace
-- Focus on time on feet
-- Purpose: Build endurance
-
-### Interval Training
-- Short, fast segments with recovery
-- Example: 6x800m at 5K pace with 2min rest
-- Purpose: Improve speed and VO2 max
-
-### Tempo Run
-- Comfortably hard pace (threshold pace)
-- Sustained effort for 20-40 minutes
-- Purpose: Improve lactate threshold
-
-### Hill Repeats
-- Short uphill sprints with recovery jogs
-- Purpose: Build strength and power
-
-### Recovery Run
-- Very easy, short run
-- Purpose: Active recovery between hard workouts
-
-### Cross-Training
-- Non-running activities (cycling, swimming, yoga)
-- Purpose: Maintain fitness while reducing impact
-
----
-
-## Training Notes
-
-### Injury Prevention
-- [ ] Warm up before each run (5-10 min easy jog + dynamic stretches)
-- [ ] Cool down after each run (5 min easy jog + static stretches)
-- [ ] Strength training 2x per week
-- [ ] Listen to your body - rest if needed
-
-### Nutrition & Hydration
-- Pre-run:
-- During run:
-- Post-run:
-
-### Gear Checklist
-- [ ] Running shoes (replace every 300-500 miles)
-- [ ] Moisture-wicking clothing
-- [ ] GPS watch or phone app
-- [ ] Hydration system (for long runs)
-
----
-
-## Progress Tracking
-
-| Week | Total Miles | Long Run Distance | Average Pace | How I Felt | Achievements |
-|------|-------------|-------------------|--------------|------------|--------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-
----
-
-## Race Day Plan (if applicable)
-
-- **Race Date:** 
-- **Race Name/Location:** 
-- **Goal Time:** 
-- **Pacing Strategy:** 
-- **Pre-race meal:** 
-- **Warm-up routine:** 
-
----
-
-## Reflections & Adjustments
-
-**What's working well:**
-- 
-
-**What needs adjustment:**
-- 
-
-**Lessons learned:**
--
+### Paces
+- Recovery: 8:00
+- Easy: 7:00-7:30
+- Long: 6:30-7:00
+- Tempo: 5:30-6:00
+- Speedwork: 4:45-5:15
+- Goal: 5:25
 
 
