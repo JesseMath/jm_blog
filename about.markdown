@@ -63,9 +63,12 @@ Hello! My name is Jesse. This website is designed to be a place where I can coll
 
 I love to read. These are some (not necessarily all) of the books that I have read / am currently reading, along with some of my notes.
 
-## 2025
+## Currently Reading
 * Life 3.0 by Max Tegmark
-  * (Current)
+* Neural Networks and Deep Learning by Charu Aggarwal
+* Brain and Behavior by David Eagleman and Jonathan Downar
+
+## 2025
 * Nexus by Yuval Noah Harari
   *  It is becoming increasingly apparent that the direction that AI development takes in the upcoming years (and in the present) is going to be incredibly important to the development of our world. Harari explains the possible paths forward, detailing his claims with examples and comparisons from the past to compare and contrast our potential futures in an AI-integrated world. While not exactly hopeful, the book was neither pessimistic; Harari outlines the possibilities and gives his opinions on how we can work to steer society towards the more optimistic outcomes. I found the book invaluable; it really helped to deepen my understanding of the role of AI in the future -- and this, in turn, is influencing my ultimate goals in how I would like to use and develop AI.
 * Proust and The Squid by Maryanne Wolf
