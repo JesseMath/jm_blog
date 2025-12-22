@@ -41,3 +41,57 @@ and Proofs)
 - **Technologies/Frameworks**: Linux, GitHub, Tensorflow.
 - **Other**: Word, Excel, LaTeX, Tableau.
 
+# Past Relevant Courses Taken
+
+### 2024-2025
+* Thesis Research
+
+### 2023
+* Algebraic Knot Theory
+* Probabilistic Methods in Combinatorics
+* Representation Theory
+
+### 2022
+* Advanced Machine Learning Techniques / Hilbert Spaces
+* Loop Theory
+* Dynamical Systems
+* Cryptography
+* Measure Theory
+* Algebraic Logic
+
+### 2021
+* Code Loops
+* Riemannian Geometry
+* Partitions and Related Topics
+* Parking Functions
+* Homological Algebra
+* Introduction to Vertex Operator Algebras
+
+### 2020
+* Coding Theory
+* Introduction to Algebraic Geometry
+* Topology
+* Rings and Fields
+* Real Analysis II
+* Group Theory
+
+### 2019
+* Real Analysis I
+* Abstract Algebra
+* Measure & Integration Theory
+* Partial Differential Equations
+* Classical Mechanics
+* Galois Theory
+
+### 2018
+* Bridge to Modern Analysis
+* Probability Theory
+* History of Mathematics
+* Comlpex Analysis
+
+### 2017
+* Graphs and Algorithms
+* Applications of Statistics
+
+
+
