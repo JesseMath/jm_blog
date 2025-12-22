@@ -8,15 +8,15 @@ Hello! My name is Jesse. This website is designed to be a place where I can coll
 
 # Past Relevant Courses Taken
 
-## 2024-2025
+### 2024-2025
 * Thesis Research
 
-## 2023
+### 2023
 * Algebraic Knot Theory
 * Probabilistic Methods in Combinatorics
 * Representation Theory
 
-## 2022
+### 2022
 * Advanced Machine Learning Techniques / Hilbert Spaces
 * Loop Theory
 * Dynamical Systems
@@ -24,7 +24,7 @@ Hello! My name is Jesse. This website is designed to be a place where I can coll
 * Measure Theory
 * Algebraic Logic
 
-## 2021
+### 2021
 * Code Loops
 * Riemannian Geometry
 * Partitions and Related Topics
@@ -32,7 +32,7 @@ Hello! My name is Jesse. This website is designed to be a place where I can coll
 * Homological Algebra
 * Introduction to Vertex Operator Algebras
 
-## 2020
+### 2020
 * Coding Theory
 * Introduction to Algebraic Geometry
 * Topology
@@ -40,7 +40,7 @@ Hello! My name is Jesse. This website is designed to be a place where I can coll
 * Real Analysis II
 * Group Theory
 
-## 2019
+### 2019
 * Real Analysis I
 * Abstract Algebra
 * Measure & Integration Theory
@@ -48,13 +48,13 @@ Hello! My name is Jesse. This website is designed to be a place where I can coll
 * Classical Mechanics
 * Galois Theory
 
-## 2018
+### 2018
 * Bridge to Modern Analysis
 * Probability Theory
 * History of Mathematics
 * Comlpex Analysis
 
-## 2017
+### 2017
 * Graphs and Algorithms
 * Applications of Statistics
 
