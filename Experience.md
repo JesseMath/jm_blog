@@ -4,7 +4,7 @@ title: Experience
 permalink: /Experience/
 ---
 
-![Alt text](/Images/IMG_20250808_045933~2.jpg "Optional Title")
+![Me](https://github.com/JesseMath/jm_blog/blob/gh-pages/Images/IMG_20250808_045933~2.jpg)
 
 # List of Courses Taught
 
@@ -94,6 +94,7 @@ and Proofs)
 ### 2017
 * Graphs and Algorithms
 * Applications of Statistics
+
 
 
 
