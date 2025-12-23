@@ -4,6 +4,8 @@ title: Experience
 permalink: /Experience/
 ---
 
+![Alt text](https://github.com/JesseMath/jm_blog/blob/gh-pages/Images/IMG_20250808_045933~2.jpg "Optional Title")
+
 # List of Courses Taught
 
 - Winter 2024 - Teaching Assistant for University of Denver MATH 1200 (Business Calculus)
@@ -92,6 +94,7 @@ and Proofs)
 ### 2017
 * Graphs and Algorithms
 * Applications of Statistics
+
 
 
 
